@@ -1,0 +1,3 @@
+include ':birthdayapp'
+include ':app'
+rootProject.name = "AndroidAndKotlinTraningByGoogle"
