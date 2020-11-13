@@ -1,6 +1,4 @@
 # AndroidAndKotlinTraningByGoogle
-Android &amp; Kotlin Traning By developer.android.com/codelabs
-
 
 AndroidAndKotlinTraningByGoogle
 
